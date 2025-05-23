@@ -1,6 +1,6 @@
-# Ex.07 Restaurant Website
+## Ex.07 Restaurant Website
 ## Date:
-21-05-2025
+23-05-2025
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
 
@@ -1246,11 +1246,11 @@ style.css
 </html>
 
 ```
-## OUTPUT:
-![alt text](<Screenshot (60).png>)
-![alt text](<Screenshot (61).png>)
-![alt text](<Screenshot (62).png>)
-![alt text](<Screenshot (63).png>)
+## OUTPUT: 
+![image](https://github.com/user-attachments/assets/9cd60e9a-60a8-47a3-a623-35a604e80912)
+![image](https://github.com/user-attachments/assets/9ebad33d-c46c-4e21-95ed-10bd2a8ca904)
+![image](https://github.com/user-attachments/assets/afac7002-32ce-47b8-82f6-361c8bcf041e)
+![image](https://github.com/user-attachments/assets/402e68e2-1908-45cc-b845-d585471f4d56)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
