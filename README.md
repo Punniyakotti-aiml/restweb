@@ -217,7 +217,7 @@ home.html
 
   <footer>
     <img src="logo.webp" alt="HOTEL BROTHERS" />
-    <p>Designed and developed by <a href="#">DEIVARAJA</a></p>
+    <p>Designed and developed by <a href="#">Punniyakotti</a></p>
   </footer>
 
 </body>
